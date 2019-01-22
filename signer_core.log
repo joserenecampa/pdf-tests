@@ -596,3 +596,30 @@ Resumo (hash) do carimbo de tempo:[B@5e0e82ae
 2018-12-04 04:29:24 INFO  TimeStampOperator:365 - Verificada(s) 1 assinatura(s).
 2018-12-04 04:29:24 INFO  TimeStampOperator:381 - Resumo  incluso no carimbo de tempo com resumo do arquivo carimbado verificado com sucesso.
 2018-12-04 04:29:24 INFO  CAdESSigner:779 - Assinatura gerada com sucesso!
+2019-01-18 10:51:46 INFO  Configuration:178 - Driver carregado [TokenOuSmartCard_26_safenet]
+2019-01-18 10:51:46 INFO  Configuration:178 - Driver carregado [TokenOuSmartCard_27_safenet]
+2019-01-18 10:51:46 INFO  Configuration:178 - Driver carregado [TokenOuSmartCard_33_watchdata]
+2019-01-18 10:51:53 INFO  CAManager:236 - Procurando certificado no Provider: Provedor OFFLINE de cadeias ICP-Brasil  (icpbrasil.jks)
+2019-01-18 10:51:53 INFO  CAManager:288 - Foram encontrados 4 níveis na cadeia do provider Provedor OFFLINE de cadeias ICP-Brasil  (icpbrasil.jks) 
+2019-01-18 10:51:53 INFO  CAManager:236 - Procurando certificado no Provider: Provedor OFFLINE de cadeias ICP-Brasil  (icpbrasil.jks)
+2019-01-18 10:51:53 INFO  CAManager:288 - Foram encontrados 4 níveis na cadeia do provider Provedor OFFLINE de cadeias ICP-Brasil  (icpbrasil.jks) 
+2019-01-18 10:51:53 INFO  BasicCertificate:607 - Adicionando a url http://repositorio.serpro.gov.br/lcr/acserproacfv4.crl
+2019-01-18 10:51:53 INFO  BasicCertificate:607 - Adicionando a url http://certificados2.serpro.gov.br/lcr/acserproacfv4.crl
+2019-01-18 10:51:53 WARN  COSDocument:517 - Warning: You did not close a PDF Document
+2019-01-18 10:51:53 INFO  BasicCertificate:607 - Adicionando a url http://repositorio.icpbrasil.gov.br/lcr/serpro/acserproacfv4.crl
+2019-01-18 10:51:54 INFO  OnLineCRLRepository:86 - Foi encontrada uma LCR válida: http://repositorio.serpro.gov.br/lcr/acserproacfv4.crl
+2019-01-18 10:51:54 INFO  CAdESSigner:606 - OID do algoritmo que irá gerar assinatura: 1.2.840.113549.1.1.11
+2019-01-18 10:51:54 INFO  CAdESSigner:607 - Nome do  algoritmo que irá gerar a assinatura : SHA256withRSA
+2019-01-18 10:51:54 INFO  CAdESSigner:609 - Tamanho mínimo para chave:  2.048
+2019-01-18 10:51:54 INFO  CAdESSigner:611 - Validando o tamanho da chave.
+2019-01-18 10:51:54 INFO  CAdESSigner:623 - Efetuando a verificação dos atributos assinados
+2019-01-18 10:51:54 INFO  CAdESSigner:655 - Ponto de Confiança ... CN=Autoridade Certificadora Raiz Brasileira v5, OU=Instituto Nacional de Tecnologia da Informacao - ITI, O=ICP-Brasil, C=BR
+2019-01-18 10:51:54 INFO  CAdESSigner:655 - Ponto de Confiança ... CN=Autoridade Certificadora Raiz Brasileira v2, OU=Instituto Nacional de Tecnologia da Informacao - ITI, O=ICP-Brasil, C=BR
+2019-01-18 10:51:54 INFO  CAdESSigner:667 - CN=Autoridade Certificadora SERPRO v3, OU=Autoridade Certificadora Raiz Brasileira v2, O=ICP-Brasil, C=BR
+2019-01-18 10:51:54 INFO  CAdESSigner:667 - CN=Autoridade Certificadora Raiz Brasileira v2, OU=Instituto Nacional de Tecnologia da Informacao - ITI, O=ICP-Brasil, C=BR
+2019-01-18 10:51:54 INFO  CAdESSigner:667 - CN=Autoridade Certificadora Raiz Brasileira v2, OU=Instituto Nacional de Tecnologia da Informacao - ITI, O=ICP-Brasil, C=BR
+2019-01-18 10:51:54 INFO  CAdESSigner:667 - CN=Autoridade Certificadora do SERPRO Final v4, OU=Servico Federal de Processamento de Dados - SERPRO, OU=CSPB-1, O=ICP-Brasil, C=BR
+2019-01-18 10:51:54 INFO  CAdESSigner:673 - O certificado pertence a cadeia CN=Autoridade Certificadora Raiz Brasileira v2, OU=Instituto Nacional de Tecnologia da Informacao - ITI, O=ICP-Brasil, C=BR que é permitida pela política  para gerar a assinatura.
+2019-01-18 10:51:54 INFO  CAdESSigner:683 - Verificando o período de validade da politica
+2019-01-18 10:51:54 INFO  CAdESSigner:363 - Adicionando Certificado no CertStore
+2019-01-18 10:51:54 INFO  CAdESSigner:691 - OID do algoritmo que irá gerar assinatura: 1.2.840.113549.1.1.11
